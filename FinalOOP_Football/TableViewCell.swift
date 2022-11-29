@@ -1,8 +1,8 @@
 //
 //  TableViewCell.swift
-//  Final2.1
+//  FinalOOP_Footbal
 //
-//  Created by Nattapat Anyachuen on 28/11/2565 BE.
+//  Created by Hannarong Kaewkiriya on 28/11/2565 BE.
 //
 
 import UIKit

@@ -1,0 +1,6 @@
+framework module Pods_FinalOOP_Football_FinalOOP_FootballUITests {
+  umbrella header "Pods-FinalOOP_Football-FinalOOP_FootballUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

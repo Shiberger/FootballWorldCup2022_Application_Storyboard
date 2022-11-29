@@ -1,0 +1,6 @@
+framework module Pods_FinalOOP_Football {
+  umbrella header "Pods-FinalOOP_Football-umbrella.h"
+
+  export *
+  module * { export * }
+}
