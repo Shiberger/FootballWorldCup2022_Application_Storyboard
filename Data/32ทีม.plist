@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>กลุ่มA</key>
+	<array>
+		<string>1.เนเธอร์แลนด์</string>
+		<string>2.เอกวาดอร์</string>
+		<string>3.เซเนกัล</string>
+		<string>4.กาตาร์</string>
+	</array>
+	<key>กลุ่มB</key>
+	<array>
+		<string>1.อังกฤษ</string>
+		<string>2.อิหร่าน</string>
+		<string>3.สหรัฐอเมริกา</string>
+		<string>4.เวลส์</string>
+	</array>
+	<key>กลุ่มC</key>
+	<array>
+		<string>1.โปแลนด์</string>
+		<string>2.อาร์เจนตินา</string>
+		<string>3.ซาอุดีอาระเบีย</string>
+		<string>4.เม็กซิโก</string>
+	</array>
+	<key>กลุ่มD</key>
+	<array>
+		<string>1.ฝรั่งเศส</string>
+		<string>2.ออสเตรเลีย</string>
+		<string>3.เดนมาร์ก</string>
+		<string>4.ดูนิเซีย</string>
+	</array>
+	<key>กลุ่มE</key>
+	<array>
+		<string>1.สเปน</string>
+		<string>2.ญี่ปุ่น</string>
+		<string>3.คอสตาริกา</string>
+		<string>4.เยอรมนี</string>
+	</array>
+	<key>กลุ่มF</key>
+	<array>
+		<string>1.โครเอเชีย</string>
+		<string>2.โมร็อกโก</string>
+		<string>3.เบลเยียม</string>
+		<string>4.แคนาดา</string>
+	</array>
+	<key>กลุ่มG</key>
+	<array>
+		<string>1.บราซิล</string>
+		<string>2.สวิตเซอร์แลนด์</string>
+		<string>3.แคเมอรูน</string>
+		<string>4.เซอร์เบีย</string>
+	</array>
+	<key>กลุ่มH</key>
+	<array>
+		<string>1.โปรตุเกส</string>
+		<string>2.เกาหลีใต้</string>
+		<string>3.อุรุกวัย</string>
+		<string>4.กานา</string>
+	</array>
+</dict>
+</plist>

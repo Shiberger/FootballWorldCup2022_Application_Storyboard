@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GROUP A</key>
+	<array>
+		<string>1.เนเธอร์แลนด์.png</string>
+		<string>2.เอกวาดอร์.png</string>
+		<string>3.เซเนกัล.png</string>
+		<string>4.กาตาร์.png</string>
+	</array>
+	<key>GROUP B</key>
+	<array>
+		<string>1.อังกฤษ.png</string>
+		<string>2.อิหร่าน.png</string>
+		<string>3.สหรัฐอเมริกา.png</string>
+		<string>4.เวลส์.png</string>
+	</array>
+	<key>GROUP C</key>
+	<array>
+		<string>1.โปแลนด์.png</string>
+		<string>2.อาร์เจนตินา.png</string>
+		<string>3.ซาอุดิ อาระเบีย.png</string>
+		<string>4.เม็กซิโก.png</string>
+	</array>
+	<key>GROUP D</key>
+	<array>
+		<string>1.ฝรั่งเศส.png</string>
+		<string>2.ออสเตรเลีย.png</string>
+		<string>3.เดนมาร์ก.png</string>
+		<string>4.ดูนิเซีย.png</string>
+	</array>
+	<key>GROUP E</key>
+	<array>
+		<string>1.สเปน.png</string>
+		<string>2.ญี่ปุ่น.png</string>
+		<string>3.คอสตาริกา.png</string>
+		<string>4.เยอรมนี.png</string>
+	</array>
+	<key>GROUP F</key>
+	<array>
+		<string>1.โครเอเชีย.png</string>
+		<string>2.โมร็อกโก.png</string>
+		<string>3.เบลเยียม.png</string>
+		<string>4.แคนาดา.png</string>
+	</array>
+	<key>GROUP G</key>
+	<array>
+		<string>1.บราซิล.png</string>
+		<string>2.สวิตเซอร์แลนด์.png</string>
+		<string>3.แคเมอรูน.png</string>
+		<string>4.เซอร์เบีย.png</string>
+	</array>
+	<key>GROUP H</key>
+	<array>
+		<string>1.โปรตุเกส.png</string>
+		<string>2.เกาหลีใต้.png</string>
+		<string>3.อุรุกวัย.png</string>
+		<string>4.กานา.png</string>
+	</array>
+</dict>
+</plist>
